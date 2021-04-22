@@ -5,77 +5,85 @@ using UnityEngine;
 public class Worm_Controller : MonoBehaviour
 {
     //variables generales
-    public bool onGround;
+    public bool can_jump;
+    public bool is_falling;
     //Editor
     [Header("Parametros de movimiento")]
     public float velocidad;
     public float potencia_salto;
     public int angulo_salto;
 
-
     // Start is called before the first frame update
     void Start()
     {
-        if (Quaternion.Euler(0, 0, 0).Equals(Vector3.zero))
-        {
-            print("wena");
-        }
+
     }
 
     // Update is called once per frame
     void Update()
     {
         //Movimiento del gusano
-        if (Input.GetKey(KeyCode.RightArrow))
+        if (Input.GetKey(KeyCode.RightArrow) && !is_falling)
         {
             transform.rotation = Quaternion.Euler(0, 180, 0);
             transform.position += Vector3.right * velocidad * Time.deltaTime;
 
         }
-        if (Input.GetKey(KeyCode.LeftArrow))
+        if (Input.GetKey(KeyCode.LeftArrow) && !is_falling)
         {
             transform.rotation = Quaternion.Euler(0, 0, 0);
-            GetComponent<SpriteRenderer>().flipX = false;
             transform.position += Vector3.left * velocidad * Time.deltaTime;
 
         }
-        if (Input.GetKey(KeyCode.UpArrow))
+        if (Input.GetKeyDown("return"))
         {
-            if (onGround)
+            if (Input.GetKeyDown("return"))
             {
-
-                if (transform.rotation == Quaternion.Euler(0, 0, 0))
-                {
-                    transform.position += Vector3.up * Mathf.Cos(angulo_salto) * potencia_salto *
-                        Time.deltaTime + Vector3.left * Mathf.Sin(angulo_salto) * potencia_salto * Time.deltaTime;
-                }
-                if (transform.rotation == Quaternion.Euler(0, -180, 0))
-                {
-                    transform.position += Vector3.up * Mathf.Cos(angulo_salto) * potencia_salto *
-                        Time.deltaTime + Vector3.right * Mathf.Sin(angulo_salto) * potencia_salto * Time.deltaTime;
-                }
-
+                saltar();
             }
-
+                
 
         }
 
-        //Control del polygon collider2D
+        //verificacion de velocidad
+        if (GetComponent<Rigidbody2D>().velocity != new Vector2(0, 0))
+        {
+            is_falling = true;
+            can_jump = false;
+        }
+        else
+        {
+            is_falling = false;
+            can_jump = true;
+        }
     }
-    private void OnTriggerEnter2D(Collider2D collision)
+
+    void saltar()
+    {
+        if (transform.rotation == Quaternion.Euler(0, 0, 0) && can_jump)
+        {
+            GetComponent<Rigidbody2D>().AddForce(new Vector3((-potencia_salto) * Mathf.Cos(angulo_salto) * 2, potencia_salto, 0));
+        }
+        if (transform.rotation == Quaternion.Euler(0, -180, 0) && can_jump)
+        {
+            GetComponent<Rigidbody2D>().AddForce(new Vector3((potencia_salto) * Mathf.Cos(angulo_salto) * 2, potencia_salto, 0));
+        }
+    }
+
+    /*private void OnTriggerEnter2D(Collider2D collision)
     {
 
         if (collision.CompareTag("ground"))
         {
-            onGround = true;
+            can_jump = true;
             return;
         }
         if(!collision.CompareTag("ground"))
         {
-            onGround = false;
+            can_jump = false;
             return;
         }
 
-    }
+    }*/
 
 }
