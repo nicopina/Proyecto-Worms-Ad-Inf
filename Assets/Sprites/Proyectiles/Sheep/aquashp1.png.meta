@@ -1,0 +1,900 @@
+fileFormatVersion: 2
+guid: 158a4cefedc2a05479cfa2e7809b4f20
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8988078384734705345
+    second: aquashp1_0
+  - first:
+      213: 850982963386762484
+    second: aquashp1_1
+  - first:
+      213: -2508772768452497161
+    second: aquashp1_2
+  - first:
+      213: 4340132044102399790
+    second: aquashp1_3
+  - first:
+      213: 3371218012466255735
+    second: aquashp1_4
+  - first:
+      213: -6538436964885711678
+    second: aquashp1_5
+  - first:
+      213: 2235380367918963427
+    second: aquashp1_6
+  - first:
+      213: 764637309825765766
+    second: aquashp1_7
+  - first:
+      213: -6090677329269720796
+    second: aquashp1_8
+  - first:
+      213: 1619140072617026509
+    second: aquashp1_9
+  - first:
+      213: 6672280673729473070
+    second: aquashp1_10
+  - first:
+      213: 8272204497957153704
+    second: aquashp1_11
+  - first:
+      213: 5817443614482321735
+    second: aquashp1_12
+  - first:
+      213: -5741660712267714104
+    second: aquashp1_13
+  - first:
+      213: -4821892995316604248
+    second: aquashp1_14
+  - first:
+      213: 2165229889416923904
+    second: aquashp1_15
+  - first:
+      213: -5367445660336290751
+    second: aquashp1_16
+  - first:
+      213: -3900245328894997175
+    second: aquashp1_17
+  - first:
+      213: -466468227379322952
+    second: aquashp1_18
+  - first:
+      213: 3701137937115746411
+    second: aquashp1_19
+  - first:
+      213: 3338567781438198602
+    second: aquashp1_20
+  - first:
+      213: 8952102430172341799
+    second: aquashp1_21
+  - first:
+      213: -5708469164973713249
+    second: aquashp1_22
+  - first:
+      213: 5210723356416728778
+    second: aquashp1_23
+  - first:
+      213: 7560568695694779080
+    second: aquashp1_24
+  - first:
+      213: 4905271918778969143
+    second: aquashp1_25
+  - first:
+      213: 321087615367491664
+    second: aquashp1_26
+  - first:
+      213: 7793988902275147234
+    second: aquashp1_27
+  - first:
+      213: 6254343283069284720
+    second: aquashp1_28
+  - first:
+      213: -1760271503706270224
+    second: aquashp1_29
+  - first:
+      213: 1309017679630517024
+    second: aquashp1_30
+  - first:
+      213: -3034249447242770196
+    second: aquashp1_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: aquashp1_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1869
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c69a778ba11cbc70800000000000000
+      internalID: 8988078384734705345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquashp1_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1808
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4c39a1f7c4fcb00800000000000000
+      internalID: 850982963386762484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquashp1_2
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1748
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0373a857c0f2dd0800000000000000
+      internalID: -2508772768452497161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquashp1_3
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1689
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27730f591f3b3c30800000000000000
+      internalID: 4340132044102399790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquashp1_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1631
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777137dbbe8f8ce20800000000000000
+      internalID: 3371218012466255735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquashp1_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1572
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c434b9f83ec245a0800000000000000
+      internalID: -6538436964885711678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquashp1_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1515
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea11bfd99aa50f10800000000000000
+      internalID: 2235380367918963427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquashp1_7
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1457
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681dc2205998c9a00800000000000000
+      internalID: 764637309825765766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquashp1_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1401
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4297a532d31997ba0800000000000000
+      internalID: -6090677329269720796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquashp1_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1340
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc320f54157587610800000000000000
+      internalID: 1619140072617026509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquashp1_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1277
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a6957ebe3b89c50800000000000000
+      internalID: 6672280673729473070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquashp1_11
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1214
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abef12b926ccc270800000000000000
+      internalID: 8272204497957153704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquashp1_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1151
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741551e2526bbb050800000000000000
+      internalID: 5817443614482321735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquashp1_13
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1089
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c17778b0068150b0800000000000000
+      internalID: -5741660712267714104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquashp1_14
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1029
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2a5354ed1351db0800000000000000
+      internalID: -4821892995316604248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquashp1_15
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 968
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b01cfcc117c0e10800000000000000
+      internalID: 2165229889416923904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquashp1_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 907
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14481702c900385b0800000000000000
+      internalID: -5367445660336290751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquashp1_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 848
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d465aa98b8fd9c0800000000000000
+      internalID: -3900245328894997175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquashp1_18
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 789
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf9c006e95c689f0800000000000000
+      internalID: -466468227379322952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquashp1_19
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 730
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60918628551d5330800000000000000
+      internalID: 3701137937115746411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquashp1_20
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 672
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43103f65b9f45e20800000000000000
+      internalID: 3338567781438198602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquashp1_21
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 614
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726655fdab14c3c70800000000000000
+      internalID: 8952102430172341799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquashp1_22
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 556
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98987a0a8177c0b0800000000000000
+      internalID: -5708469164973713249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquashp1_23
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 498
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acedc0af845305840800000000000000
+      internalID: 5210723356416728778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquashp1_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 441
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c263decb298ce860800000000000000
+      internalID: 7560568695694779080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquashp1_25
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 379
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ce48522d6031440800000000000000
+      internalID: 4905271918778969143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquashp1_26
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 316
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050b1c72c7bb47400800000000000000
+      internalID: 321087615367491664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquashp1_27
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 255
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5627fbc9fc92c60800000000000000
+      internalID: 7793988902275147234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquashp1_28
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 193
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071f1ba3414ebc650800000000000000
+      internalID: 6254343283069284720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquashp1_29
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 130
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f55859c4624297e0800000000000000
+      internalID: -1760271503706270224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquashp1_30
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 69
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0234517e4a09a2210800000000000000
+      internalID: 1309017679630517024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aquashp1_31
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 9
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce85b21343e24e5d0800000000000000
+      internalID: -3034249447242770196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

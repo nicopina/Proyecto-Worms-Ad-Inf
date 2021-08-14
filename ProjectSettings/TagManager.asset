@@ -6,20 +6,28 @@ TagManager:
   tags:
   - ground
   - worm
+  - water
+  - bullet
+  - textoVida
+  - textoNombre
+  - hoja
+  - fuego
+  - Sheep
+  - fuego
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Viento
   - Water
   - UI
   - Fondo
   - Terreno
   - Gusano
-  - 
-  - 
-  - 
-  - 
+  - Bullet
+  - Hoja
+  - fondo layer
+  - letras
   - 
   - 
   - 
@@ -42,4 +50,10 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Atras
+    uniqueID: 2640713773
+    locked: 0
+  - name: adelante
+    uniqueID: 473234777
     locked: 0

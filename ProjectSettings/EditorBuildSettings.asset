@@ -6,6 +6,30 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/intro.unity
+    guid: 2f857ae8041446a46a309153d8fa76d8
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 4f0a28b2c6d044e77b1883479b1a5420
+  - enabled: 1
+    path: Assets/Scenes/desierto.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/bosque.unity
+    guid: acfac6df8f9f43545ace1c1fe57aabfa
+  - enabled: 0
+    path: Assets/Scenes/Pruebas Javier.unity
+    guid: e4d5216c0271b493aa95f338b17a8a54
+  - enabled: 1
+    path: Assets/Scenes/nieve.unity
+    guid: bfef992960bfa464299116f1b1ce4d6f
+  - enabled: 1
+    path: Assets/Scenes/cubo.unity
+    guid: e7d9c3c4500567d48af4fbe6a3c0d33b
+  - enabled: 1
+    path: Assets/Scenes/ciudad.unity
+    guid: 4dab78c090fd9a244b5ef8bff7255b05
+  - enabled: 1
+    path: Assets/Scenes/creditos.unity
+    guid: 0d25fe1a7a5e7884e8c35b1336024772
   m_configObjects: {}

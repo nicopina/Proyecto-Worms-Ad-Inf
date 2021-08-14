@@ -1,0 +1,900 @@
+fileFormatVersion: 2
+guid: 86dba1e89be5b4742a93e523be3d87ce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4141741535570295413
+    second: spsheep2_0
+  - first:
+      213: 2345173867573569384
+    second: spsheep2_1
+  - first:
+      213: -8991675127200242522
+    second: spsheep2_2
+  - first:
+      213: -8628985334918757103
+    second: spsheep2_3
+  - first:
+      213: 7244136728573492419
+    second: spsheep2_4
+  - first:
+      213: 5649096499441415461
+    second: spsheep2_5
+  - first:
+      213: 8953880094129465064
+    second: spsheep2_6
+  - first:
+      213: -8327601946296979446
+    second: spsheep2_7
+  - first:
+      213: 9074588131083428275
+    second: spsheep2_8
+  - first:
+      213: -180517283277289009
+    second: spsheep2_9
+  - first:
+      213: -4053868987420681871
+    second: spsheep2_10
+  - first:
+      213: 5678261916446760589
+    second: spsheep2_11
+  - first:
+      213: -4116132929130794085
+    second: spsheep2_12
+  - first:
+      213: 29993749705864404
+    second: spsheep2_13
+  - first:
+      213: 1357079450752755471
+    second: spsheep2_14
+  - first:
+      213: -1003695659440011979
+    second: spsheep2_15
+  - first:
+      213: -4840263663282900123
+    second: spsheep2_16
+  - first:
+      213: 9195160752295690748
+    second: spsheep2_17
+  - first:
+      213: -5247033968982202241
+    second: spsheep2_18
+  - first:
+      213: 1417558856069412195
+    second: spsheep2_19
+  - first:
+      213: -2626840771193339167
+    second: spsheep2_20
+  - first:
+      213: -5387793534355775042
+    second: spsheep2_21
+  - first:
+      213: 5884078949759294186
+    second: spsheep2_22
+  - first:
+      213: -3865505063242156187
+    second: spsheep2_23
+  - first:
+      213: -6060607876961463721
+    second: spsheep2_24
+  - first:
+      213: -135561272881345588
+    second: spsheep2_25
+  - first:
+      213: -8872120536061925707
+    second: spsheep2_26
+  - first:
+      213: -7323527354108843164
+    second: spsheep2_27
+  - first:
+      213: 1404881552011422577
+    second: spsheep2_28
+  - first:
+      213: -3072583569671148457
+    second: spsheep2_29
+  - first:
+      213: -3937669167910331510
+    second: spsheep2_30
+  - first:
+      213: 4979658609294596661
+    second: spsheep2_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spsheep2_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1870
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b850adc64049586c0800000000000000
+      internalID: -4141741535570295413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheep2_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1808
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8676041153bbb8020800000000000000
+      internalID: 2345173867573569384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheep2_2
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1747
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4a38b9c17273380800000000000000
+      internalID: -8991675127200242522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheep2_3
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1688
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115cc146e8faf3880800000000000000
+      internalID: -8628985334918757103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheep2_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1631
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccbbfa39f7588460800000000000000
+      internalID: 7244136728573492419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheep2_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1573
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525bb17065f956e40800000000000000
+      internalID: 5649096499441415461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheep2_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1515
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e627048182924c70800000000000000
+      internalID: 8953880094129465064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheep2_7
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1457
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00fd10c62a6e6c80800000000000000
+      internalID: -8327601946296979446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheep2_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1400
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1243473d96fed70800000000000000
+      internalID: 9074588131083428275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheep2_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1340
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9407ebc7cae7df0800000000000000
+      internalID: -180517283277289009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheep2_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1277
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17951de52a3cdb7c0800000000000000
+      internalID: -4053868987420681871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheep2_11
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1214
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e1077d02d3dce40800000000000000
+      internalID: 5678261916446760589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheep2_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1152
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93fedeb8ee80e6c0800000000000000
+      internalID: -4116132929130794085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheep2_13
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1090
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d433bc082f8a6000800000000000000
+      internalID: 29993749705864404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheep2_14
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1029
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07a912029055d210800000000000000
+      internalID: 1357079450752755471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheep2_15
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 969
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5350a749d182212f0800000000000000
+      internalID: -1003695659440011979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheep2_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 908
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563bac2d7dde3dcb0800000000000000
+      internalID: -4840263663282900123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheep2_17
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 849
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1c2357cf5cb9f70800000000000000
+      internalID: 9195160752295690748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheep2_18
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 790
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78686ab76ace27b0800000000000000
+      internalID: -5247033968982202241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheep2_19
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 731
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365f930e44e2ca310800000000000000
+      internalID: 1417558856069412195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheep2_20
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 672
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e202877c369b8bd0800000000000000
+      internalID: -2626840771193339167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheep2_21
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 614
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1e3958356ba35b0800000000000000
+      internalID: -5387793534355775042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheep2_22
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 556
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea91ce21a278a150800000000000000
+      internalID: 5884078949759294186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheep2_23
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 498
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5673af310a7fa5ac0800000000000000
+      internalID: -3865505063242156187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheep2_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 440
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75217c21f3564eba0800000000000000
+      internalID: -6060607876961463721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheep2_25
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 379
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb8b949db36e1ef0800000000000000
+      internalID: -135561272881345588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheep2_26
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 317
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6a4930165efd480800000000000000
+      internalID: -8872120536061925707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheep2_27
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 255
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b6c735caa9d5a90800000000000000
+      internalID: -7323527354108843164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheep2_28
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 194
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17be32304542f7310800000000000000
+      internalID: 1404881552011422577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheep2_29
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 130
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75cac0bc58dfb55d0800000000000000
+      internalID: -3072583569671148457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheep2_30
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 68
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b52b321c69a59c0800000000000000
+      internalID: -3937669167910331510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheep2_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 9
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a58bd2f1d4b1540800000000000000
+      internalID: 4979658609294596661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

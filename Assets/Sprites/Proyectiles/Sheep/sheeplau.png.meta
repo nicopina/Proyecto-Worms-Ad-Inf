@@ -1,0 +1,900 @@
+fileFormatVersion: 2
+guid: a3f47d9e5e402734c8d3f85f3ec4064d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6299841336235152527
+    second: sheeplau_0
+  - first:
+      213: -1736329519239710162
+    second: sheeplau_1
+  - first:
+      213: 6606664287972970883
+    second: sheeplau_2
+  - first:
+      213: 6970193394240607178
+    second: sheeplau_3
+  - first:
+      213: 9129198377373688310
+    second: sheeplau_4
+  - first:
+      213: 2376139063135385909
+    second: sheeplau_5
+  - first:
+      213: -1317771353139731185
+    second: sheeplau_6
+  - first:
+      213: -1769185774295163818
+    second: sheeplau_7
+  - first:
+      213: -1027820258264862668
+    second: sheeplau_8
+  - first:
+      213: 4373406388924349290
+    second: sheeplau_9
+  - first:
+      213: -3596247108215546154
+    second: sheeplau_10
+  - first:
+      213: 5498165468484220409
+    second: sheeplau_11
+  - first:
+      213: -8539309693312174190
+    second: sheeplau_12
+  - first:
+      213: 3791496576971064786
+    second: sheeplau_13
+  - first:
+      213: -9078392194090840530
+    second: sheeplau_14
+  - first:
+      213: 2108355560388037894
+    second: sheeplau_15
+  - first:
+      213: -2846136537645028313
+    second: sheeplau_16
+  - first:
+      213: 282787106033836527
+    second: sheeplau_17
+  - first:
+      213: -7940430552449660859
+    second: sheeplau_18
+  - first:
+      213: 8292568872402442897
+    second: sheeplau_19
+  - first:
+      213: 5002529923682338375
+    second: sheeplau_20
+  - first:
+      213: -1678631318465628214
+    second: sheeplau_21
+  - first:
+      213: 6773027342436866129
+    second: sheeplau_22
+  - first:
+      213: -4087074902207196668
+    second: sheeplau_23
+  - first:
+      213: -381932278351038892
+    second: sheeplau_24
+  - first:
+      213: 1477105174759770170
+    second: sheeplau_25
+  - first:
+      213: -7183570717124258456
+    second: sheeplau_26
+  - first:
+      213: 8186339483415999776
+    second: sheeplau_27
+  - first:
+      213: 4500795886470795429
+    second: sheeplau_28
+  - first:
+      213: -8388516209085871861
+    second: sheeplau_29
+  - first:
+      213: 8248943106869674361
+    second: sheeplau_30
+  - first:
+      213: 2003354087831049223
+    second: sheeplau_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sheeplau_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1872
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f845e9b31588d6750800000000000000
+      internalID: 6299841336235152527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheeplau_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1811
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a31b0708157e7e0800000000000000
+      internalID: -1736329519239710162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheeplau_2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1750
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38153e29a269fab50800000000000000
+      internalID: 6606664287972970883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheeplau_3
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1691
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac35c7f56f91bb060800000000000000
+      internalID: 6970193394240607178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheeplau_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1631
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f16e6f3e8d61be70800000000000000
+      internalID: 9129198377373688310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheeplau_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1573
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5393d1b73edb9f020800000000000000
+      internalID: 2376139063135385909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheeplau_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1515
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05abe8afe556bde0800000000000000
+      internalID: -1317771353139731185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheeplau_7
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1457
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c567d69e69277e0800000000000000
+      internalID: -1769185774295163818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheeplau_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1400
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4303c25bbe27cb1f0800000000000000
+      internalID: -1027820258264862668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheeplau_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1337
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b724e70f571bc30800000000000000
+      internalID: 4373406388924349290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheeplau_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1274
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de594e0f40971ec0800000000000000
+      internalID: -3596247108215546154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheeplau_11
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1212
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f53251fc586d4c40800000000000000
+      internalID: 5498165468484220409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheeplau_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1151
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297f31fb3174e7980800000000000000
+      internalID: -8539309693312174190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheeplau_13
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1090
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5487d6c0a1e9430800000000000000
+      internalID: 3791496576971064786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheeplau_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1030
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e498b1662130280800000000000000
+      internalID: -9078392194090840530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheeplau_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 971
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d062d2632624d10800000000000000
+      internalID: 2108355560388037894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheeplau_16
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 911
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c686306ed7088d0800000000000000
+      internalID: -2846136537645028313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheeplau_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 851
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1253aef59ace300800000000000000
+      internalID: 282787106033836527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheeplau_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 790
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54844959b7cedc190800000000000000
+      internalID: -7940430552449660859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheeplau_19
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 731
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a520b147f151370800000000000000
+      internalID: 8292568872402442897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheeplau_20
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 672
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7460957067e8c6540800000000000000
+      internalID: 5002529923682338375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheeplau_21
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 613
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7b20aa5bd44b8e0800000000000000
+      internalID: -1678631318465628214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheeplau_22
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 556
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15815ff9b70aefd50800000000000000
+      internalID: 6773027342436866129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheeplau_23
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 499
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402968bd70bc747c0800000000000000
+      internalID: -4087074902207196668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheeplau_24
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 439
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45671accd9a13baf0800000000000000
+      internalID: -381932278351038892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheeplau_25
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 376
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a388275945bbf7410800000000000000
+      internalID: 1477105174759770170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheeplau_26
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 314
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86519e23e74de4c90800000000000000
+      internalID: -7183570717124258456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheeplau_27
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 252
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025f3c71368bb9170800000000000000
+      internalID: 8186339483415999776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheeplau_28
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 191
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a091a3330a067e30800000000000000
+      internalID: 4500795886470795429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheeplau_29
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 131
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0984dcb3f0069b80800000000000000
+      internalID: -8388516209085871861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheeplau_30
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 70
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971cf590d022a7270800000000000000
+      internalID: 8248943106869674361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheeplau_31
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 11
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7041f7cbde75dcb10800000000000000
+      internalID: 2003354087831049223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
